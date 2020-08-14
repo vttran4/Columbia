@@ -1,1 +1,1 @@
-# Things that I have learned at Columbia University during my M.S in Data Science program
+# Things that I have learned during my M.S in Data Science program
