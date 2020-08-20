@@ -25,10 +25,10 @@
 
 - [Course Description](https://www.datascience.columbia.edu/course-inventory)
 - Homeworks and projects:
-	- HW1: MLE, Linear Regression, Bias-Variance Tradeoffs
-	- HW2: Linear Classifiers, Decision Trees, Gradient Descent
-	- HW3: Optimization, Logistic Regression, SVM
-	- HW4: Optimization, Neural Networks, Kernels
+	- HW1: theory and hands-on practice with MLE, Linear Regression, Bias-Variance Tradeoffs
+	- HW2: theory and hands-on practice with Linear Classifiers, Decision Trees, Gradient Descent
+	- HW3: theory and hands-on practice with Optimization, Logistic Regression, SVM
+	- HW4: theory and hands-on practice with Optimization, Neural Networks, Kernels
 
 ## 4. Applied Machine Learning (COMS W4995)
 
