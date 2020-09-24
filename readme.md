@@ -1,4 +1,4 @@
-# Things I've learned during Data Science program at Columbia University
+# Columbia Courseworks
 
 ## 1. Algorithms for Data Science (CSOR W4246)
 
